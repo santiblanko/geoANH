@@ -10,6 +10,7 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "mapbox-gl": "^2.0.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
