@@ -1,0 +1,25 @@
+.logo-img {
+    width: 200px;
+    height: 100px;
+
+    object-fit: cover;
+    object-position: center right;
+}
+
+body {
+    font-family: 'Lato', sans-serif !important;
+}
+
+.title {
+    font-size: 9vh;
+}
+
+.subtitle {
+    font-size: 6vh; 
+}
+
+@media only screen and (max-width: 770px) {
+    .main-button {
+        height: 10vh;
+    }
+}
